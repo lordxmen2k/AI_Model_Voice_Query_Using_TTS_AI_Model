@@ -1,5 +1,10 @@
 # Voice Assistant with Streaming TTS
 
+**Author:**  
+Gerald Enrique Nelson Mc Kenzie
+
+## **Abstract**
+
 This project is a Flask-based voice assistant that leverages Text-to-Speech (TTS) capabilities to generate audio responses based on user queries. The assistant processes user input, sends it to a local API for conversational responses, cleans and processes the text, and then streams synthesized audio back to the client via Server-Sent Events (SSE).
 
 ## Features
@@ -34,5 +39,5 @@ This project is a Flask-based voice assistant that leverages Text-to-Speech (TTS
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/voice-assistant.git
+   git clone https://github.com/lordxmen2k/AI_Model_Voice_Query_Using_TTS_AI_Model.git
    cd voice-assistant
