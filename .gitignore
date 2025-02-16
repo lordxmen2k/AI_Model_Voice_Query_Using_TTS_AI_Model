@@ -1,0 +1,12 @@
+# Ignore all files
+*
+
+# Don't ignore directories (so Git can recurse)
+!*/
+
+# Do not ignore this Python script
+!voice_assistant.py
+!requirements.txt
+!Readme.md
+!.gitignore
+
