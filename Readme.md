@@ -38,6 +38,16 @@ This project is a Flask-based voice assistant that leverages Text-to-Speech (TTS
 
 1. **Clone the Repository:**
 
-   ```bash
+```bash
    git clone https://github.com/lordxmen2k/AI_Model_Voice_Query_Using_TTS_AI_Model.git
-   cd voice-assistant
+
+   cd AI_Model_Voice_Query_Using_TTS_AI_Model
+```   
+
+## Run
+
+1. **Run Voice Assistant:**
+
+```bash   
+
+   python voice_assistant.py
